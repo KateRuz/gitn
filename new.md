@@ -8,3 +8,6 @@ git remote add origin https://github.com/KateRuz/gitn.git
  
 
  новинка
+
+ second
+ 
